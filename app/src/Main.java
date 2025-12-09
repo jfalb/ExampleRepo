@@ -13,5 +13,7 @@ public class Main {
         }
 
         new Loop().runLoop();
+
+        System.out.println("This is the end of the program.");
     }
 }
